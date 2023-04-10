@@ -6,6 +6,7 @@
             font-family: Arial, Helvetica, sans-serif;
         }
         body{
+            background-color: #C797A3;
             background-image: url(../imagens/fundo.jpg);
             background-size: cover;
             background-repeat: no-repeat;
